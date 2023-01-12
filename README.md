@@ -2,9 +2,10 @@
 
 -Utilize openAI API to generate and edit photos from a text prompt
 
-# LIbraries Utilized: tkinter, webbrowser, openAI, requests, Pillow, and numpy
+# LIbraries Utilized: 
+-tkinter, webbrowser, openAI, requests, Pillow, and numpy
 
-# Built as a skeleton to be added too for specific needs
+# *Built as a skeleton to be added too for specific needs
 
 # Visit: https://openai.com/api/ to create an openAI account and get your API-key
 
