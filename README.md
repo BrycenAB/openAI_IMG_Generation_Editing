@@ -1,6 +1,6 @@
 # openAI_IMG_Generation_Editing
 
-# Utilize openAI API to generate and edit photos from a text prompt
+-Utilize openAI API to generate and edit photos from a text prompt
 
 # LIbraries Utilized: tkinter, webbrowser, openAI, requests, Pillow, and numpy
 
