@@ -5,8 +5,6 @@
 # Libraries Utilized: 
 -tkinter, webbrowser, openAI, requests, Pillow, and numpy
 
-# Built as a skeleton, can be added too for specific needs
-
 # Visit: https://openai.com/api/ to create an openAI account and get your API-key
 
 # Usage: 
